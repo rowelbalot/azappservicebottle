@@ -6,4 +6,4 @@ app = Bottle()
 def hello():
     return "Hello World!"
 
-run(app,port=8080)
+run(app)
